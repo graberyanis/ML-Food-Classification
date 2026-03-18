@@ -14,4 +14,8 @@
 - matplotlib
 - scikit-learn
 - pillow (for importing images using keras)
-> You can either run the full notebook, or skip the training process and load our final model (fine_tune_at_5.keras)
+### GPU Training
+- Cuda 11.2
+- cuDNN 8.1
+> Follow [this page](https://www.reddit.com/r/deeplearning/comments/1iush30/how_to_successfully_install_tensorflow_with_gpu/) on how to install them in conda 
+> You can either run the full notebook, or skip the training process and load our final model [(fine_tune_at_5.keras)](https://app.box.com/folder/353358119735)
